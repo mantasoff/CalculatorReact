@@ -1,5 +1,5 @@
  ## React Calculator 
-v0.1
+v0.9
 
 This is going to be a simple calculator App to chech what we can do with React and how should we control states on a calculator.
 
@@ -10,4 +10,3 @@ To start:
 
 What is needs some work:
 1) Needs an additional button for Cancelling;
-2) , not yet working
